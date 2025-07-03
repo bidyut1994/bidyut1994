@@ -11,8 +11,19 @@ I work with:
 
 🌐 Let's Connect!
 
-[![Portfolio](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.builtbybidyut.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bidyut12)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bidyut1994)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbboruah1994@gmail.com)
-![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+<table>
+  <tr>
+    <td><strong>🌐 Website</strong></td>
+    <td><strong>💼 LinkedIn</strong></td>
+    <td><strong>🐙 GitHub</strong></td>
+    <td><strong>📧 Email</strong></td>
+    <td><strong>📱 Phone</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.builtbybidyut.com" target="_blank">builtbybidyut.com</a></td>
+    <td><a href="https://linkedin.com/in/bidyut12" target="_blank">in/bidyut12</a></td>
+    <td><a href="https://github.com/bidyut1994" target="_blank">@bidyut1994</a></td>
+    <td><a href="mailto:bbboruah1994@gmail.com">bbboruah1994@gmail.com</a></td>
+    <td>+91 8867145873</td>
+  </tr>
+</table>
