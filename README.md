@@ -1,11 +1,11 @@
 Hi there 👋
 
-I'm a Frontend Developer with 4+ years of experience, passionate about crafting beautiful and functional user interfaces.
+I'm a Frontend Developer with 5 years of experience, passionate about crafting beautiful and functional user interfaces.
 
-I work with:
-- ⚛️ React.js & React Native
-- 💻 JavaScript, HTML, CSS
-- 📱 Mobile & Web Development
+🛠️ Tech Stack
+Languages & Frameworks: JavaScript (ES6+), TypeScript, React, Next.js, React Native
+Styling & Design: CSS3, Tailwind CSS, Figma
+Backend & Tools: Node.js, Express, Firebase, Appwrite , MongoDB, Git
 
 ---
 
