@@ -4,7 +4,7 @@ I'm a Frontend Developer with 5 years of experience, passionate about crafting b
 
 🛠️ Tech Stack
 Languages & Frameworks: JavaScript (ES6+), TypeScript, React, Next.js, React Native
-Styling & Design: CSS3, Tailwind CSS, Figma
+Styling & Design: CSS3, Tailwind CSS,
 Backend & Tools: Node.js, Express, Firebase, Appwrite , MongoDB, Git
 
 ---
