@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm a Frontend Developer with 5 years of experience, passionate about crafting beautiful and functional user interfaces.
+I'm a Frontend Developer with 5+ years of experience, passionate about crafting beautiful and functional user interfaces.
 
 🛠️ Tech Stack
 Languages & Frameworks: JavaScript (ES6+), TypeScript, React, Next.js, React Native
